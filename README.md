@@ -1,6 +1,7 @@
 # Watch List 
 
 # Following are the list of libs I used  : - 
+
   rive: for the eye animation in login / sign in page
   flutter_screenutil: to make app responsive 
   flutter_circular_text: for circular text aroung the eye in login / sign in page
