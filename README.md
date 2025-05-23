@@ -1,16 +1,15 @@
-# flutter_application_1
+# Watch List 
 
-A new Flutter project.
+Following are the list of libs I used  : - 
+  rive: for the eye animation in login / sign in page
+  flutter_screenutil: to make app responsive 
+  flutter_circular_text: for circular text aroung the eye in login / sign in page
+  supabase_flutter: for auth
+  easy_debounce: to handle multiple clicks
+  encrypt_shared_preferences to store login data
+  page_transition: for smooth animation when pushing to new page
+  bouncing_widget: for ontap events on widgets
+  syncfusion_flutter_charts: for the spline and bar graph 
 
-## Getting Started
+I haved added apk in file named apk_folder and video in video folder . I was only able to show the flow to show graphs.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
