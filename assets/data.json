@@ -1,0 +1,115 @@
+[
+  {
+    "fund_Name": "Alpha Growth Fund",
+    "dates": [2020, 2021, 2022, 2023],
+    "price": [1200, 1500, 1700, 2100],
+    "nav": "2.3",
+    "current_Value": 2200,
+    "total_Gained": 4500
+  },
+  {
+    "fund_Name": "Beta Value Fund",
+    "dates": [2019, 2020, 2021, 2022],
+    "price": [900, 1100, 1300, 1400],
+    "nav": "1.9",
+    "current_Value": 1600,
+    "total_Gained": 3200
+  },
+  {
+    "fund_Name": "Gamma Equity",
+    "dates": [2018, 2019, 2020, 2021],
+    "price": [1500, 1700, 1800, 1900],
+    "nav": "2.8",
+    "current_Value": 2400,
+    "total_Gained": 4600
+  },
+  {
+    "fund_Name": "Delta Capital",
+    "dates": [2021, 2022, 2023, 2024],
+    "price": [1000, 1300, 1500, 1700],
+    "nav": "2.1",
+    "current_Value": 2000,
+    "total_Gained": 3000
+  },
+  {
+    "fund_Name": "Epsilon Balanced",
+    "dates": [2019, 2020, 2021, 2022],
+    "price": [800, 950, 1100, 1200],
+    "nav": "1.5",
+    "current_Value": 1350,
+    "total_Gained": 2500
+  },
+  {
+    "fund_Name": "Zeta Index",
+    "dates": [2020, 2021, 2022, 2023],
+    "price": [1100, 1200, 1400, 1600],
+    "nav": "2.2",
+    "current_Value": 1800,
+    "total_Gained": 4000
+  },
+  {
+    "fund_Name": "Eta Flexi",
+    "dates": [2018, 2019, 2020, 2021],
+    "price": [950, 1050, 1150, 1250],
+    "nav": "1.8",
+    "current_Value": 1300,
+    "total_Gained": 2800
+  },
+  {
+    "fund_Name": "Theta Star",
+    "dates": [2020, 2021, 2022, 2023],
+    "price": [1000, 1300, 1600, 1900],
+    "nav": "2.4",
+    "current_Value": 2200,
+    "total_Gained": 5000
+  },
+  {
+    "fund_Name": "Iota Prime",
+    "dates": [2019, 2020, 2021, 2022],
+    "price": [1150, 1250, 1350, 1500],
+    "nav": "2.0",
+    "current_Value": 1650,
+    "total_Gained": 3100
+  },
+  {
+    "fund_Name": "Kappa Dividend",
+    "dates": [2021, 2022, 2023, 2024],
+    "price": [900, 1000, 1100, 1300],
+    "nav": "1.6",
+    "current_Value": 1400,
+    "total_Gained": 2700
+  },
+  {
+    "fund_Name": "Lambda Value",
+    "dates": [2020, 2021, 2022, 2023],
+    "price": [1050, 1150, 1250, 1350],
+    "nav": "2.0",
+    "current_Value": 1500,
+    "total_Gained": 3000
+  },
+  {
+    "fund_Name": "Mu Opportunity",
+    "dates": [2019, 2020, 2021, 2022],
+    "price": [980, 1080, 1180, 1280],
+    "nav": "1.7",
+    "current_Value": 1400,
+    "total_Gained": 2600
+  },
+  {
+    "fund_Name": "Nu Growth",
+    "dates": [2018, 2019, 2020, 2021],
+    "price": [1250, 1350, 1450, 1600],
+    "nav": "2.6",
+    "current_Value": 1750,
+    "total_Gained": 4200
+  },
+  {
+    "fund_Name": "Xi Vision",
+    "dates": [2020, 2021, 2022, 2023],
+    "price": [1020, 1140, 1260, 1380],
+    "nav": "2.3",
+    "current_Value": 1550,
+    "total_Gained": 3300
+  }
+
+]
